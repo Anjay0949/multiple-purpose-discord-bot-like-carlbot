@@ -1,19 +1,19 @@
 
 module.exports = {
     "registercommands" : false, //Write True If You Are Launching The Bot First Time
-     "token": "", //Your Super Secret Bot Token
+     "token": "ODQzMDE1NTE1OTc5MTIwNjUw.G3VaH_.yyTDJ-8SvH6T6D0J9utlk9-VwrOyIUj7YBgJSY", //Your Super Secret Bot Token
     "imageapi": "", //Your Amethyste Api You can get it from https://api.amethyste.moe/
-    "ownerID": [], //Your Discord User ID
-"prefix": "", //Your Bot's Prefix
+    "ownerID": ["746265371778088960"], //Your Discord User ID
+"prefix": ".", //Your Bot's Prefix
 "chat": {
         "url": "",
         "bid": "",
         "key": "",
         "uid": ""
     }, // You can get This Things from https://brainshop.ai
-"api": "", // Your Youtube Api
-"youtubeAPI": "", // Your Youtube Api
-mainprefix: "",  // Again Your Prefix
+"api": "AIzaSyBipqy9kfVrTs_wW-Wwu__L-7dgS2nvYhY", // Your Youtube Api
+"youtubeAPI": "AIzaSyBipqy9kfVrTs_wW-Wwu__L-7dgS2nvYhY", // Your Youtube Api
+mainprefix: "!",  // Again Your Prefix
 "owner": "G U D B O Y", // Owner Name
 
   basiclang: "en", //The basic language of the bot, "fr" for French and "en" for English
